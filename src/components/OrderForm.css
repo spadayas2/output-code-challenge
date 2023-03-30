@@ -1,0 +1,36 @@
+.order-form-input {
+  text-align: center;
+  padding: 5px;
+}
+
+.order-form-input-total {
+  text-align: right;
+  width: 65%;
+}
+
+.order-form-button {
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.order-form-input select {
+  padding: 5px;
+  text-align: center;
+  margin: 5px;
+}
+.order-form-input input {
+  padding: 5px;
+  text-align: center;
+  margin: 5px;
+}
+
+.card {
+  border-radius: 12px;
+  box-shadow: 0 1px 8px #e4941c;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 300px;
+  margin-left: 300px;
+  padding-bottom: 30px;
+}

@@ -1,0 +1,43 @@
+.card {
+    border-radius: 12px;
+    box-shadow: 0 1px 8px #e4941c;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 300px;
+    margin-left: 300px;
+    padding-bottom: 30px;
+  }
+
+  .invoice-confirmation{
+    text-align:center;
+    font-weight: bold;
+    font-size: large;
+  }
+
+  .invoice-total {
+    text-align: right;
+    width: 65%;
+  }
+
+  .cards {
+    border-collapse: collapse;
+    margin:auto;
+    text-align:center;
+  }
+  
+  .cards td, .cards th {
+    border: 2px solid #e4941c;
+    padding: 8px;
+  }
+  
+  .cards tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .cards tr:hover {background-color: #ddd;}
+  
+  .cards th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #e4941c;
+    color: white;
+  }
